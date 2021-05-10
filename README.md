@@ -9,5 +9,5 @@ Hello World 🌍 I'm  <a href="https://aldinurfarizha.github.io/">Aldi Nurfarizh
     <br>
     <br>
     
-Coffee And Nomaden places to work 🧡
+Coffee And Nomaden places to work 🧡 <br>
 📫 How to reach me: aldinurfarizha@gmail.com ✉
